@@ -15,12 +15,19 @@ Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to sty
 
 <a href="https://silviomoreto.github.io/bootstrap-select/"><img src="https://cloud.githubusercontent.com/assets/2874325/18023324/42cf556c-6bb5-11e6-84ce-35be08ae57ba.gif" alt="bootstrap-select demo"></a>
 
+# HEY YOU! DO YOU WANT TO HELP?
+
+*He are looking for new maintainers on this project. If you think you can help on this, please send me an email to silviomoreto@gmail.com so we can continue improving the community plugin!*
+
 ## Demo and Documentation
 
 You can view a live demo and some examples of how to use the various options [here](https://silviomoreto.github.io/bootstrap-select/examples).
 
 Bootstrap-select's documentation, included in this repo in the root directory, is built with MkDocs and publicly hosted on GitHub Pages at https://silviomoreto.github.io/bootstrap-select. The documentation may also be run locally.
 
+### Bootstrap 4 Support
+
+This version currently does not support Bootstrap 4 officially. We are looking to keep it updated to the new Bootstrap version, do you want to help us?
 
 ### Running documentation locally
 
